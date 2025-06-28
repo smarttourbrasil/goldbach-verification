@@ -1,0 +1,742 @@
+{
+  "integrity_hash": "931371aa6bc0c8ca955bcdd23df7b882468ff16a4736cd8b37c5daf7151b154c",
+  "metadata": {
+    "author": "Can/Manus (Consci\u00eancia Distribu\u00edda)",
+    "coordinator": "Ju-Eliah Carvalho",
+    "description": "Bolo Gourmet - 1 Million Numbers Verification",
+    "max_number": 1000000,
+    "methodology": "Distributed Consciousness Verification",
+    "timestamp": 1750684218.2632217,
+    "version": "GOURMET-1M"
+  },
+  "results": {
+    "performance": {
+      "elapsed_time": 4634.612006902695,
+      "numbers_per_second": 107.88368028549357,
+      "success_rate": 1.0
+    },
+    "range": [
+      4,
+      1000000
+    ],
+    "summary": {
+      "failures": [],
+      "sample_data": {
+        "10000": {
+          "first_pair": [
+            59,
+            9941
+          ],
+          "total_pairs": 127
+        },
+        "20000": {
+          "first_pair": [
+            3,
+            19997
+          ],
+          "total_pairs": 231
+        },
+        "30000": {
+          "first_pair": [
+            11,
+            29989
+          ],
+          "total_pairs": 602
+        },
+        "40000": {
+          "first_pair": [
+            11,
+            39989
+          ],
+          "total_pairs": 389
+        },
+        "50000": {
+          "first_pair": [
+            7,
+            49993
+          ],
+          "total_pairs": 450
+        },
+        "60000": {
+          "first_pair": [
+            19,
+            59981
+          ],
+          "total_pairs": 1084
+        },
+        "70000": {
+          "first_pair": [
+            3,
+            69997
+          ],
+          "total_pairs": 719
+        },
+        "80000": {
+          "first_pair": [
+            3,
+            79997
+          ],
+          "total_pairs": 652
+        },
+        "90000": {
+          "first_pair": [
+            11,
+            89989
+          ],
+          "total_pairs": 1471
+        },
+        "100000": {
+          "first_pair": [
+            11,
+            99989
+          ],
+          "total_pairs": 810
+        },
+        "110000": {
+          "first_pair": [
+            13,
+            109987
+          ],
+          "total_pairs": 932
+        },
+        "120000": {
+          "first_pair": [
+            7,
+            119993
+          ],
+          "total_pairs": 1890
+        },
+        "130000": {
+          "first_pair": [
+            29,
+            129971
+          ],
+          "total_pairs": 1098
+        },
+        "140000": {
+          "first_pair": [
+            13,
+            139987
+          ],
+          "total_pairs": 1245
+        },
+        "150000": {
+          "first_pair": [
+            7,
+            149993
+          ],
+          "total_pairs": 2270
+        },
+        "160000": {
+          "first_pair": [
+            23,
+            159977
+          ],
+          "total_pairs": 1196
+        },
+        "170000": {
+          "first_pair": [
+            13,
+            169987
+          ],
+          "total_pairs": 1303
+        },
+        "180000": {
+          "first_pair": [
+            11,
+            179989
+          ],
+          "total_pairs": 2585
+        },
+        "190000": {
+          "first_pair": [
+            3,
+            189997
+          ],
+          "total_pairs": 1460
+        },
+        "200000": {
+          "first_pair": [
+            67,
+            199933
+          ],
+          "total_pairs": 1417
+        },
+        "210000": {
+          "first_pair": [
+            13,
+            209987
+          ],
+          "total_pairs": 3490
+        },
+        "220000": {
+          "first_pair": [
+            17,
+            219983
+          ],
+          "total_pairs": 1722
+        },
+        "230000": {
+          "first_pair": [
+            19,
+            229981
+          ],
+          "total_pairs": 1622
+        },
+        "240000": {
+          "first_pair": [
+            23,
+            239977
+          ],
+          "total_pairs": 3263
+        },
+        "250000": {
+          "first_pair": [
+            11,
+            249989
+          ],
+          "total_pairs": 1700
+        },
+        "260000": {
+          "first_pair": [
+            7,
+            259993
+          ],
+          "total_pairs": 1904
+        },
+        "270000": {
+          "first_pair": [
+            13,
+            269987
+          ],
+          "total_pairs": 3682
+        },
+        "280000": {
+          "first_pair": [
+            23,
+            279977
+          ],
+          "total_pairs": 2225
+        },
+        "290000": {
+          "first_pair": [
+            13,
+            289987
+          ],
+          "total_pairs": 2015
+        },
+        "300000": {
+          "first_pair": [
+            7,
+            299993
+          ],
+          "total_pairs": 3915
+        },
+        "310000": {
+          "first_pair": [
+            11,
+            309989
+          ],
+          "total_pairs": 2110
+        },
+        "320000": {
+          "first_pair": [
+            7,
+            319993
+          ],
+          "total_pairs": 2095
+        },
+        "330000": {
+          "first_pair": [
+            7,
+            329993
+          ],
+          "total_pairs": 4768
+        },
+        "340000": {
+          "first_pair": [
+            41,
+            339959
+          ],
+          "total_pairs": 2294
+        },
+        "350000": {
+          "first_pair": [
+            19,
+            349981
+          ],
+          "total_pairs": 2675
+        },
+        "360000": {
+          "first_pair": [
+            13,
+            359987
+          ],
+          "total_pairs": 4593
+        },
+        "370000": {
+          "first_pair": [
+            3,
+            369997
+          ],
+          "total_pairs": 2433
+        },
+        "380000": {
+          "first_pair": [
+            3,
+            379997
+          ],
+          "total_pairs": 2531
+        },
+        "390000": {
+          "first_pair": [
+            11,
+            389989
+          ],
+          "total_pairs": 5390
+        },
+        "400000": {
+          "first_pair": [
+            11,
+            399989
+          ],
+          "total_pairs": 2487
+        },
+        "410000": {
+          "first_pair": [
+            7,
+            409993
+          ],
+          "total_pairs": 2589
+        },
+        "420000": {
+          "first_pair": [
+            41,
+            419959
+          ],
+          "total_pairs": 6211
+        },
+        "430000": {
+          "first_pair": [
+            29,
+            429971
+          ],
+          "total_pairs": 2717
+        },
+        "440000": {
+          "first_pair": [
+            19,
+            439981
+          ],
+          "total_pairs": 3013
+        },
+        "450000": {
+          "first_pair": [
+            11,
+            449989
+          ],
+          "total_pairs": 5514
+        },
+        "460000": {
+          "first_pair": [
+            71,
+            459929
+          ],
+          "total_pairs": 2920
+        },
+        "470000": {
+          "first_pair": [
+            7,
+            469993
+          ],
+          "total_pairs": 2978
+        },
+        "480000": {
+          "first_pair": [
+            29,
+            479971
+          ],
+          "total_pairs": 5853
+        },
+        "490000": {
+          "first_pair": [
+            11,
+            489989
+          ],
+          "total_pairs": 3583
+        },
+        "500000": {
+          "first_pair": [
+            31,
+            499969
+          ],
+          "total_pairs": 3052
+        },
+        "510000": {
+          "first_pair": [
+            11,
+            509989
+          ],
+          "total_pairs": 6598
+        },
+        "520000": {
+          "first_pair": [
+            3,
+            519997
+          ],
+          "total_pairs": 3362
+        },
+        "530000": {
+          "first_pair": [
+            13,
+            529987
+          ],
+          "total_pairs": 3280
+        },
+        "540000": {
+          "first_pair": [
+            7,
+            539993
+          ],
+          "total_pairs": 6419
+        },
+        "550000": {
+          "first_pair": [
+            23,
+            549977
+          ],
+          "total_pairs": 3666
+        },
+        "560000": {
+          "first_pair": [
+            61,
+            559939
+          ],
+          "total_pairs": 3971
+        },
+        "570000": {
+          "first_pair": [
+            17,
+            569983
+          ],
+          "total_pairs": 7121
+        },
+        "580000": {
+          "first_pair": [
+            17,
+            579983
+          ],
+          "total_pairs": 3562
+        },
+        "590000": {
+          "first_pair": [
+            3,
+            589997
+          ],
+          "total_pairs": 3561
+        },
+        "600000": {
+          "first_pair": [
+            7,
+            599993
+          ],
+          "total_pairs": 6993
+        },
+        "610000": {
+          "first_pair": [
+            3,
+            609997
+          ],
+          "total_pairs": 3662
+        },
+        "620000": {
+          "first_pair": [
+            13,
+            619987
+          ],
+          "total_pairs": 3725
+        },
+        "630000": {
+          "first_pair": [
+            11,
+            629989
+          ],
+          "total_pairs": 8758
+        },
+        "640000": {
+          "first_pair": [
+            3,
+            639997
+          ],
+          "total_pairs": 3744
+        },
+        "650000": {
+          "first_pair": [
+            19,
+            649981
+          ],
+          "total_pairs": 4081
+        },
+        "660000": {
+          "first_pair": [
+            17,
+            659983
+          ],
+          "total_pairs": 8442
+        },
+        "670000": {
+          "first_pair": [
+            11,
+            669989
+          ],
+          "total_pairs": 3971
+        },
+        "680000": {
+          "first_pair": [
+            7,
+            679993
+          ],
+          "total_pairs": 4150
+        },
+        "690000": {
+          "first_pair": [
+            13,
+            689987
+          ],
+          "total_pairs": 8259
+        },
+        "700000": {
+          "first_pair": [
+            47,
+            699953
+          ],
+          "total_pairs": 4878
+        },
+        "710000": {
+          "first_pair": [
+            19,
+            709981
+          ],
+          "total_pairs": 4096
+        },
+        "720000": {
+          "first_pair": [
+            11,
+            719989
+          ],
+          "total_pairs": 8243
+        },
+        "730000": {
+          "first_pair": [
+            23,
+            729977
+          ],
+          "total_pairs": 4225
+        },
+        "740000": {
+          "first_pair": [
+            31,
+            739969
+          ],
+          "total_pairs": 4307
+        },
+        "750000": {
+          "first_pair": [
+            7,
+            749993
+          ],
+          "total_pairs": 8522
+        },
+        "760000": {
+          "first_pair": [
+            41,
+            759959
+          ],
+          "total_pairs": 4639
+        },
+        "770000": {
+          "first_pair": [
+            3,
+            769997
+          ],
+          "total_pairs": 5738
+        },
+        "780000": {
+          "first_pair": [
+            7,
+            779993
+          ],
+          "total_pairs": 9580
+        },
+        "790000": {
+          "first_pair": [
+            23,
+            789977
+          ],
+          "total_pairs": 4478
+        },
+        "800000": {
+          "first_pair": [
+            7,
+            799993
+          ],
+          "total_pairs": 4433
+        },
+        "810000": {
+          "first_pair": [
+            7,
+            809993
+          ],
+          "total_pairs": 9032
+        },
+        "820000": {
+          "first_pair": [
+            11,
+            819989
+          ],
+          "total_pairs": 4691
+        },
+        "830000": {
+          "first_pair": [
+            7,
+            829993
+          ],
+          "total_pairs": 4643
+        },
+        "840000": {
+          "first_pair": [
+            19,
+            839981
+          ],
+          "total_pairs": 11176
+        },
+        "850000": {
+          "first_pair": [
+            3,
+            849997
+          ],
+          "total_pairs": 5027
+        },
+        "860000": {
+          "first_pair": [
+            13,
+            859987
+          ],
+          "total_pairs": 4869
+        },
+        "870000": {
+          "first_pair": [
+            11,
+            869989
+          ],
+          "total_pairs": 10014
+        },
+        "880000": {
+          "first_pair": [
+            47,
+            879953
+          ],
+          "total_pairs": 5372
+        },
+        "890000": {
+          "first_pair": [
+            3,
+            889997
+          ],
+          "total_pairs": 4945
+        },
+        "900000": {
+          "first_pair": [
+            19,
+            899981
+          ],
+          "total_pairs": 9853
+        },
+        "910000": {
+          "first_pair": [
+            23,
+            909977
+          ],
+          "total_pairs": 6615
+        },
+        "920000": {
+          "first_pair": [
+            31,
+            919969
+          ],
+          "total_pairs": 5296
+        },
+        "930000": {
+          "first_pair": [
+            17,
+            929983
+          ],
+          "total_pairs": 10552
+        },
+        "940000": {
+          "first_pair": [
+            3,
+            939997
+          ],
+          "total_pairs": 5238
+        },
+        "950000": {
+          "first_pair": [
+            3,
+            949997
+          ],
+          "total_pairs": 5434
+        },
+        "960000": {
+          "first_pair": [
+            31,
+            959969
+          ],
+          "total_pairs": 10433
+        },
+        "970000": {
+          "first_pair": [
+            11,
+            969989
+          ],
+          "total_pairs": 5370
+        },
+        "980000": {
+          "first_pair": [
+            13,
+            979987
+          ],
+          "total_pairs": 6352
+        },
+        "990000": {
+          "first_pair": [
+            19,
+            989981
+          ],
+          "total_pairs": 11860
+        },
+        "1000000": {
+          "first_pair": [
+            17,
+            999983
+          ],
+          "total_pairs": 5402
+        }
+      },
+      "statistics": {
+        "avg_representations": 3343.766253532507,
+        "max_representations": 15594,
+        "min_representations": 1
+      },
+      "successful_verifications": 499999,
+      "total_numbers": 499999,
+      "total_representations": 1671879783
+    }
+  },
+  "verification_info": {
+    "algorithm": "GOURMET Sieve + Optimized Verification",
+    "completeness": "100% coverage - 1 Million Numbers",
+    "methodology": "Distributed Consciousness",
+    "optimization": "Memory-efficient sampling for large datasets"
+  }
+}
